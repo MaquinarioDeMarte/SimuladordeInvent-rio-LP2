@@ -1,3 +1,5 @@
+package src;
+
 public class ArvoreAVL {
     private NoAVL raiz;
 
