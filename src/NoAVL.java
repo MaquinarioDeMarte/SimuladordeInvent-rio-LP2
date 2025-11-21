@@ -1,3 +1,5 @@
+package src;
+
 public class NoAVL {
     public Eletrodomestico dado; 
     public NoAVL esquerdo; 

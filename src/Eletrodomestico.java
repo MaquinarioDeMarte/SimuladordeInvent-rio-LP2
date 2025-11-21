@@ -1,3 +1,4 @@
+package src;
 public class Eletrodomestico {
     private int codigo; 
     private String nome; 
